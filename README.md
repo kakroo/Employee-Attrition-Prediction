@@ -1,4 +1,4 @@
 # Employee-Attrition-Prediction
 Predicts Employee Attrition from their data
 
-Run the notebook
+Open The notebook folder and Run the notebook
